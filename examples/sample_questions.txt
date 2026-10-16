@@ -1,0 +1,4 @@
+Explain Spring Boot in simple terms.
+What are the benefits of containerization?
+How does a large language model generate text?
+What is the difference between prompt engineering and fine-tuning?
